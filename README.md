@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=500&color=00FFD1&center=true&vCenter=true&repeat=true&width=800&lines=👨‍💻+Hey%2C+I'm+DEV+KAUSHIK+%7C+Welcome+to+my+space;💻+Frontend+Developer+%7C+Salesforce+App+Builder;🚀+React+%7C+JavaScript+%7C+LWC+Enthusiast;🎯+Focused+on+Clean+UI+%26+Great+UX;🌱+Learning+Apex+%7C+Cloud+Development;🤝+Open+to+Collaboration+%7C+Always+Learning" />
+</p>
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on building smart, user-friendly apps in Salesforce and modern frontend projects  <br>👯 I’m looking to collaborate on innovative web apps, open-source tools, or anything that makes dev life easier  <br>🤝 I’m looking for help with mastering full-stack development and exploring real-world use cases in Salesforce  <br>🌱 I’m currently learning React, Apex, LWC, and diving deeper into cloud-based development  <br>💬 Ask me about web development, JavaScript magic, or how to make your UI feel like butter 🧈  <br>⚡ Fun fact: I turn ☕ into code and bugs into features (sometimes on purpose 😄)<br>
 
